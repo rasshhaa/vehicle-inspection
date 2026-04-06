@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-python-multipart
-pillow
-opencv-python
-reportlab
-inference-sdk
