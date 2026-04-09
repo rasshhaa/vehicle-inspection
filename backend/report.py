@@ -7,6 +7,7 @@ from datetime import datetime
 import random
 
 # All possible damage classes
+
 ALL_DEFECTS = [
     "Bonnet",
     "Bumper",
